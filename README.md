@@ -199,9 +199,9 @@ Developed communication, responsibility, collaboration and representation skills
 
 📧 **Email:** [Karabelo.kn2@gmail.com](mailto:Karabelo.kn2@gmail.com)
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/nhlanhla-radebe-346652199
 
-🌐 **Portfolio:** [View my Portfolio](YOUR_PORTFOLIO_URL)
+)
 
 💻 **GitHub:** [@karabelokn2-web](https://github.com/karabelokn2-web)
 
